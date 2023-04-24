@@ -1,0 +1,12 @@
+C:\visualtudio_csharp\TicketSystemForTrains\TicketSystemForTrains\bin\Debug\TicketSystemForTrains.exe.config
+C:\visualtudio_csharp\TicketSystemForTrains\TicketSystemForTrains\bin\Debug\TicketSystemForTrains.exe
+C:\visualtudio_csharp\TicketSystemForTrains\TicketSystemForTrains\bin\Debug\TicketSystemForTrains.pdb
+C:\visualtudio_csharp\TicketSystemForTrains\TicketSystemForTrains\obj\Debug\TicketSystemForTrains.csproj.AssemblyReference.cache
+C:\visualtudio_csharp\TicketSystemForTrains\TicketSystemForTrains\obj\Debug\TicketSystemForTrains.csproj.SuggestedBindingRedirects.cache
+C:\visualtudio_csharp\TicketSystemForTrains\TicketSystemForTrains\obj\Debug\TicketSystemForTrains.loginForm.resources
+C:\visualtudio_csharp\TicketSystemForTrains\TicketSystemForTrains\obj\Debug\TicketSystemForTrains.Properties.Resources.resources
+C:\visualtudio_csharp\TicketSystemForTrains\TicketSystemForTrains\obj\Debug\TicketSystemForTrains.csproj.GenerateResource.cache
+C:\visualtudio_csharp\TicketSystemForTrains\TicketSystemForTrains\obj\Debug\TicketSystemForTrains.csproj.CoreCompileInputs.cache
+C:\visualtudio_csharp\TicketSystemForTrains\TicketSystemForTrains\obj\Debug\TicketSystemForTrains.exe
+C:\visualtudio_csharp\TicketSystemForTrains\TicketSystemForTrains\obj\Debug\TicketSystemForTrains.pdb
+C:\visualtudio_csharp\TicketSystemForTrains\TicketSystemForTrains\obj\Debug\TicketSystemForTrains.userForm.resources
